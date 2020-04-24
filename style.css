@@ -98,10 +98,8 @@ footer {
     width: 100%;
   }
 }
-div.help-intro-box {
-  background-color: black;
+#actionvideo{
   width: 100%;
-  background-image: url("");
-  background-repeat: no-repeat;
-  background-size: 100% auto;
+  height: auto;
+  transition: 4s;
 }
